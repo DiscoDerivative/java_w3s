@@ -21,11 +21,22 @@ public class BreakAndContinue {
             if (i == 4) {
                 continue;
             }
-            System.out.println(i);
+      //      System.out.println(i);
          }
 
          /*
           * They can also be used in while loops too.
           */
+
+          //Lets count 10 numbers, if a number equals 0, skip and if a num equals 6 then leave.
+
+          int i = 0;
+          while (i < 10) {
+            if (i == 5) {
+                break;
+            }
+            System.out.println(i);
+            i++;
+          }
     }
 }
