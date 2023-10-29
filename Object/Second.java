@@ -1,3 +1,4 @@
+package Object;
 public class Second {
             /*
          * You can create an object of a class and access it in another class. This is

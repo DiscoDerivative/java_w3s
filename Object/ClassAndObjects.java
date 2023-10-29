@@ -1,3 +1,4 @@
+package Object;
 public class ClassAndObjects {
 
     static void myMethod() {

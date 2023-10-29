@@ -1,3 +1,4 @@
+package Method;
 // Calls itself until it gets home based on location and house
 
 public class WalkingHome {
