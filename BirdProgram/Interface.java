@@ -22,13 +22,7 @@ public class Interface {
             System.out.println("Flapping my wings!");
         }
     }
+    
 }
 
-    class Main {
-        public static void main(String[] args) {
-            Bird monkParakeet = new Bird();
-            monkParakeet.description();
-            monkParakeet.flying();
-        }
-    }
 
